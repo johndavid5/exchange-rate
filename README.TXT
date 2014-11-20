@@ -2,6 +2,8 @@ John D. Aynedjian
 "The Tenacious Techie"
 Friday, June 29th, 2012
 
+Live Demo: http://thetenacioustechie.com/exchange-rate/index.php
+
 exchange-rate RESTful service will allow users to:
 * supply an authorization token during a "login" request.  This must be passed
   in the HTTP header for any exchange rate requests.
